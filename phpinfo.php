@@ -1,7 +1,6 @@
 <?php
 
-//comentario
-echo "Hello World!!";
-/*outro comentario*/
+// Show all information, defaults to INFO_ALL
+phpinfo();
 
 ?>

@@ -1,4 +1,6 @@
-<?php
-    date('F', time())
+<html>
+    <?php
+        date('F', time())
     
- ?>
+    ?>
+</html> 
