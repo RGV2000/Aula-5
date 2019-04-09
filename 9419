@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+    <meta charset = "utf-8"/>
+    <Title> Exercicio 1 </Title>
+</HEAD>
+<body>
+    <?php
+    date('F', time())
+    echo "date";
+    
+    ?>
+</body>
+</HTML>

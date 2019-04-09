@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <HTML>
 <HEAD>
-    <meta closet = "utf-8"/>
+    <meta charset = "utf-8"/>
     <Title> PHP </Title>
 </HEAD>
 <body>
